@@ -1,0 +1,55 @@
+.Content {
+    display: flex;
+    flex-direction: column; /* Arrange items vertically by default */
+    position: relative;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.Calendar-Status {
+    flex: 1; /* Smaller section */
+    margin: 10px 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.417);
+    box-sizing: border-box;
+    overflow-y: auto;
+    border-radius: 8px;
+}
+
+.List-Task {
+    flex: 3; /* Larger section */
+    margin: 10px 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.417);
+    box-sizing: border-box;
+    overflow-y: auto;
+    border-radius: 8px;
+    justify-content: center;
+    display: grid;
+}
+
+@media (min-width: 768px) {
+    .Content {
+        flex-direction: row; /* Side by side on larger screens */
+    }
+
+    .Calendar-Status {
+        flex: 1; /* Still smaller than .List-Task */
+        margin-right: 10px; /* Space between the two sections */
+    }
+
+    .List-Task {
+        flex: 3; /* Takes up more space than .Calendar-Status */
+        margin-left: 10px;
+    }
+}
+
+.List-Task::-webkit-scrollbar {
+    display: none;
+}
+
+.Calendar-Status::-webkit-scrollbar{
+    display: none;
+}

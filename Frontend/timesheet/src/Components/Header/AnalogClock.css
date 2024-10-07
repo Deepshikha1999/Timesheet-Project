@@ -1,0 +1,44 @@
+.Analog-Clock {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 47%;
+    font-size: 200%;
+}
+.Analog-Clock:hover{
+    border: 2px solid rgb(42, 69, 85);
+}
+.hours{
+    border: 2px solid black;
+    width: 5px;
+    height: 25%;
+    background-color: black;
+    position: absolute;
+    bottom : 50%;
+    transform-origin: bottom center;
+}
+
+.seconds {
+    border: 1px solid black;
+    width: 2px;
+    height: 45%;
+    background-color: black;
+    position: absolute;
+    bottom : 50%;
+    transform-origin: bottom center;
+}
+
+.minutes{
+    border: 2px solid black;
+    width: 3px;
+    height: 35%;
+    background-color: black;
+    position: absolute;
+    transform-origin: bottom center;
+    bottom : 50%;
+}

@@ -1,0 +1,54 @@
+.Status{
+    display: grid;
+    place-items: center; /* Shorthand for aligning both horizontally and vertically */
+    margin : 10px;
+}
+
+.Status-Block{
+    height:50 px;
+    width : 100%;
+    background-color: rgba(0, 0, 0, 0.394);
+    /* background-color: slategrey; */
+    margin : 10px;
+    padding: 5px;
+    font-size: x-large;
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+
+.Status-Block tr{
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width : 100%;
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 1);
+    margin: 10px;
+    color: aliceblue;
+}
+
+.Status-Block td{
+    font-weight: bolder;
+    width : 80%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.NextTask{
+    animation: heartbeat 2s infinite;
+    transform-origin: center;
+}
+@keyframes heartbeat {
+    0% {
+        transform: scale(1);
+    }
+    42% {
+        transform: scale(1.1);
+        background-color: rgb(30, 37, 30);
+    }
+    100% {
+        transform: scale(1);
+    }
+}

@@ -1,0 +1,120 @@
+{"timestamp":"Tue Sep 03 2024 21:41:35 GMT+0530 (India Standard Time)","type":"info","message":"Server started on port: 9002"}
+{"timestamp":"Tue Sep 03 2024 21:42:09 GMT+0530 (India Standard Time)","type":"info","message":"Server started on port: 9002"}
+{"timestamp":"Tue Sep 03 2024 21:42:15 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:42:15 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:42:15 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:42:19 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:42:19 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:42:19 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:42:37 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:42:37 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:42:37 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:45:07 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:45:07 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:45:07 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:45:10 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:45:10 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:45:10 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:45:22 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:45:22 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:45:22 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:46:54 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:46:54 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:46:54 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:47:01 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:47:01 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:47:01 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:47:18 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:47:18 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:47:18 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:49:01 GMT+0530 (India Standard Time)","type":"info","message":"Server started on port: 9002"}
+{"timestamp":"Tue Sep 03 2024 21:50:15 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:50:15 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 21:50:15 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:50:23 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:50:23 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 21:50:23 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:50:31 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:50:31 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:50:31 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:50:33 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:50:33 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:50:33 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:51:05 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:51:05 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:51:05 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:52:11 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:52:11 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:52:11 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:52:14 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:52:14 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:52:14 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:52:23 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:52:23 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:52:23 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:56:44 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:56:44 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:56:44 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:59:39 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:59:39 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:59:39 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:59:42 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:59:42 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:59:42 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 21:59:57 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 21:59:57 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 21:59:57 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:03:48 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:03:48 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:03:48 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:04:33 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:04:33 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:04:33 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:04:40 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:04:40 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:04:40 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:04:48 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:04:48 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 22:04:48 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:04:49 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:04:49 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:04:49 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:05:10 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:05:10 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 22:05:10 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:05:10 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:05:10 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:05:10 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:05:22 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:05:22 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:05:22 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:05:26 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:05:26 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:05:26 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:06:45 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:06:45 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 22:06:45 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:06:45 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:06:45 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:06:45 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:08:01 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:08:01 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:08:01 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:08:03 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:08:03 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:08:03 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:08:08 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:08:08 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 22:08:08 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:08:08 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:08:08 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:08:08 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:59:28 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:59:28 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:59:28 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:59:34 GMT+0530 (India Standard Time)","type":"info","message":"Update task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:59:34 GMT+0530 (India Standard Time)","type":"info","message":"session started for write"}
+{"timestamp":"Tue Sep 03 2024 22:59:34 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}
+{"timestamp":"Tue Sep 03 2024 22:59:34 GMT+0530 (India Standard Time)","type":"info","message":"Get the list of task: [object Object]"}
+{"timestamp":"Tue Sep 03 2024 22:59:34 GMT+0530 (India Standard Time)","type":"info","message":"session started for read"}
+{"timestamp":"Tue Sep 03 2024 22:59:34 GMT+0530 (India Standard Time)","type":"info","message":"Connection done"}

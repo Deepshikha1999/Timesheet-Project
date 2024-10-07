@@ -1,0 +1,115 @@
+.TaskList{
+    position: relative;
+    color: whitesmoke;
+}
+
+.TaskList-Header{
+    padding : 10px;
+    margin: 10px;
+    /* background-color: rgba(0, 0, 0, 0.439); */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.Table-Header, .Table-Content{
+    display: flex;
+    background-color: rgba(25, 31, 29, 0.555);
+    /* gap: 1rem; */
+}
+
+.TaskList-Header{
+    font-size: x-large;
+}
+
+.Table tr{
+    background-color: rgba(0, 0, 0, 0.488);
+}
+
+.Table th, td,textarea{
+    padding: 10px;
+    margin: 10px;
+    font-size: larger;
+    background-color: rgba(0, 0, 1, 0.338);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width : 8rem;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+
+
+.Table td:hover,.Table td:focus, .Table td:active{
+    background-color: rgba(25, 31, 29, 0.555);
+}
+
+.TASK,#heading3,textarea{
+    width : 30rem;
+    color: aliceblue;
+    border: none;
+}
+
+.AddButton{
+    background-color: rgba(0, 0, 0, 0.641);
+    color: beige;
+    font-size: larger;
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width : 80%;
+}
+
+.Edit button, .Delete button,.Save button{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: beige;
+    font-size: 1rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width : 5rem;
+}
+
+button:hover,button:focus,button:active{
+    background-color: cadetblue;
+}
+
+.Table input, .Table select{
+    padding: 1rem;
+    margin: 1rem;
+    font-size: large;
+    background-color: rgba(0, 0, 0, 0.2);
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    width : 7rem;
+    color: whitesmoke;
+    border: none;
+    text-align: center;
+}
+
+.Task input{
+    width: 450px;
+}
+
+.Task input:hover,.Task input:focus, .Task input:active{
+    background-color: rgba(25, 31, 29, 0.555);
+}
+
+.CheckBox{
+    width : 40%;
+    height: 40%;
+}
+
+@media (min-width: 768px) {
+    .Table th, td,textarea{
+        width: 6rem;
+    }
+    .TASK,#heading3,textarea{
+        width : 24rem;
+    }
+    .Table input, .Table select{
+        padding: 0.5rem;
+        margin: 0.5rem;
+        width:5rem;
+    }
+}

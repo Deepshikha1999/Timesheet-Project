@@ -1,0 +1,43 @@
+.InputPage1 {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: rgba(240, 248, 255, 0.5);
+    height: 50px;
+    width: 500px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Improved box-shadow */
+    border: none; /* Better than hidden */
+    font-size: 25px;
+    font-family: Monospace;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.49);
+}
+
+.InputPage1:active,
+.InputPage1:visited,
+.InputPage1:focus {
+    color: rgba(0, 0, 0, 1);
+}
+
+.SubmitPage1 {
+    margin-bottom: 10px;
+    padding: 5px;
+    height: 50px;
+    width: 500px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Same box-shadow improvement */
+    border: none; /* Better than hidden */
+    font-size: 25px;
+    font-family: Monospace;
+}
+
+
+.SubmitPage1:hover,
+.SubmitPage1:focus,
+.SubmitPage1:visited,
+.SubmitPage1:active {
+    background-color: black;
+    color: beige;
+}
